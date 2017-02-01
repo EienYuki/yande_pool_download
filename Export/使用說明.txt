@@ -1,0 +1,6 @@
+﻿input_ID 輸入 圖片集合 的編號
+input image format 選擇下載的類型 不輸入的話預設有png就會下載png
+input filename 選擇檔的名稱的命名方式 0 = 數字命名 1 = 原始檔案名稱
+
+下載好的檔案會在程式執行的的地方
+本軟體無法運行時 可以試試安裝 Directx Repair
